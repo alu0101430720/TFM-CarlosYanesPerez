@@ -3,7 +3,7 @@ Códigos implementados para el TFM de Carlos Yanes Pérez, con título: Ataques 
 
 En el directorio se encuentran varios notebooks diseñados para ser ejecutados en Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 1. S-AES
    * Ataque VQA. Implementación del ataque VQE al S-AES basado en el texto de Wang, Z., Zheng, M., Wu, J. et al. *Reducing quantum resources for attacking S-AES on quantum devices.* npj Quantum Inf 11, 157 (2025). (DOI: [10.1038/s41534-025-01106-w](https://www.nature.com/articles/s41534-025-01106-w)). Además, se ha hecho uso de las notas suplementarias de dicha publicación.
