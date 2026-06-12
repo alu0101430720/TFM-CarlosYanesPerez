@@ -1,6 +1,10 @@
 # TFM-CarlosYanesPerez
 Códigos implementados para el TFM de Carlos Yanes Pérez, con título: Ataques cuánticos contra criptografía resistente a la cuántica.
 
+En el directorio se encuentran varios notebooks diseñados para ser ejecutados en Google Colab.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPO/blob/main/TU_NOTEBOOK.ipynb)
+
 1. S-AES
    * Ataque VQA. Implementación del ataque VQE al S-AES basado en el texto de Wang, Z., Zheng, M., Wu, J. et al. *Reducing quantum resources for attacking S-AES on quantum devices.* npj Quantum Inf 11, 157 (2025). (DOI: [10.1038/s41534-025-01106-w](https://www.nature.com/articles/s41534-025-01106-w)). Además, se ha hecho uso de las notas suplementarias de dicha publicación.
    * Ataque mediante Grover. Se implementa el S-AES cuántico descrito en Escanez-Exposito & Caballero-Gil (2026). *Quantum simulation of Boolean logic, digital circuits, and cryptographic schemes*. Journal of Logic and Computation. DOI: [10.1093/jigpal/jzaf019](https://academic.oup.com/jigpal/article/34/1/jzaf019/8443240). Posteriormente, de implementa el algoritmo de Gover contra parte de la clave buscada.
