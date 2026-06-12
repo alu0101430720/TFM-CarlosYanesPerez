@@ -16,6 +16,8 @@ En el directorio se encuentran varios notebooks diseñados para ser ejecutados e
 3. Cifrado Afín
    * Ataque mediante Grover. Inspirado por el trabajo de M. M. Mathews, P. V and V. Ajith, "Quantum Cryptanalysis of Affine Cipher," in IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 14, no. 3, pp. 507-519, Sept. 2024, doi: [10.1109/JETCAS.2024.3428436](https://doi.org/10.1109/JETCAS.2024.3428436).
 
-4. Implementacion del SAES
+4. Implementaciones del SAES
+   * Clásica, basada en Anusha Porwal. SAES-Implementation. [https://github.com/AnushaPorwal/SAES-Implementation](https://github.com/AnushaPorwal/SAES-Implementation), 2021. Repositorio público en GitHub.
+   * Cuántica, basada en Escanez-Exposito & Caballero-Gil (2026). *Quantum simulation of Boolean logic, digital circuits, and cryptographic schemes*. Journal of Logic and Computation. DOI: [10.1093/jigpal/jzaf019](https://academic.oup.com/jigpal/article/34/1/jzaf019/8443240).
 
-5. Modos de cifrado AES
+6. Modos de cifrado AES
